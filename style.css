@@ -508,6 +508,7 @@ h1 {
     display: inline-block;
     color: var(--gray-dark);
     text-decoration: none;
+    transition: color 150ms ease-in-out;
 }
 
 .films__item__title h2 {
