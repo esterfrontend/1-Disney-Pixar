@@ -245,6 +245,7 @@ NAVIGATION
     font-size: 14px;
     font-weight: 700;
     padding: 23px 25px 20px 50px;
+    transition: color 0.15s ease-in-out;
 }
 
 @media screen and (max-width: 767px) {
@@ -648,6 +649,7 @@ footer {
     display: inline-block;
     color: var(--gray-medium);
     text-decoration: none;
+    transition: color 0.15s ease-in-out;
 }
 
 .footer-nav__item a:hover {
